@@ -1,0 +1,21 @@
+.button {
+   background: linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
+   letter-spacing: 0.5px;
+   border-radius: 4px;
+   font-weight: 700;
+   line-height: 1.25;  
+   padding: 16px 40px;
+   color: #FFFFFF;
+   display: inline-block;
+}
+.button--transparent {
+   border: 1px #f9590f solid;
+   background: transparent;
+   color: #f9590f;
+   padding: 15px 40px;
+   transition: 0.5s ease;
+}
+.button--transparent:hover{
+background-color: #f96926;
+color: #fff;
+}
